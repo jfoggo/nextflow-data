@@ -1,0 +1,5 @@
+#group,false,false,true,true,false,false,true,true,true,true,true
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,148519,2024-01-21T21:55:50.937529229Z,2024-02-20T21:55:50.937529229Z,2024-01-31T15:53:49.558042529Z,36.84,docker_used_memory_mb,mask_and_scale (25818),mask_and_scale (25818),1746245,25819

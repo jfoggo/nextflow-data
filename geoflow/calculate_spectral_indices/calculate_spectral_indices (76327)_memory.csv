@@ -1,0 +1,6 @@
+#group,false,false,true,true,false,false,true,true,true,true,true
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,125021,2024-01-21T21:55:50.937529229Z,2024-02-20T21:55:50.937529229Z,2024-02-01T02:06:21.554700828Z,127.93,docker_used_memory_mb,calculate_spectral_indices (76327),calculate_spectral_indices (76327),3786550,130520
+,,125021,2024-01-21T21:55:50.937529229Z,2024-02-20T21:55:50.937529229Z,2024-02-01T02:06:25.553869065Z,248.56,docker_used_memory_mb,calculate_spectral_indices (76327),calculate_spectral_indices (76327),3786550,130520

@@ -1,0 +1,7 @@
+#group,false,false,true,true,false,false,true,true,true,true,true
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,162528,2024-01-21T21:55:50.937529229Z,2024-02-20T21:55:50.937529229Z,2024-02-01T03:03:47.786796308Z,95.1009,docker_cpu_usage_pct,stms_ls (537),stms_ls (537),1604433,144283
+,,162528,2024-01-21T21:55:50.937529229Z,2024-02-20T21:55:50.937529229Z,2024-02-01T03:03:51.778855359Z,86.5923,docker_cpu_usage_pct,stms_ls (537),stms_ls (537),1604433,144283
+,,162528,2024-01-21T21:55:50.937529229Z,2024-02-20T21:55:50.937529229Z,2024-02-01T03:03:55.778023141Z,77.5181,docker_cpu_usage_pct,stms_ls (537),stms_ls (537),1604433,144283
