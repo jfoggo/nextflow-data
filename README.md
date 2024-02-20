@@ -5,5 +5,5 @@ Done:
 	- geoflow (WF failed after 14 days)
 
 In Progress (nf-core):  
-	- viralrecon
+	- viralrecon  
 	- chipseq
