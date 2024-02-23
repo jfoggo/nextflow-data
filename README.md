@@ -6,7 +6,7 @@ Done:
 - viralrecon  
 - chipseq
 
-Not Executable: (mismatch Nextflow DS1 VS DS2)  
+Not Executable: (mismatch Nextflow DSL1 VS DSL2)  
 - dualrnaseq  
 - rnadnavar  
 - ampliseq  
