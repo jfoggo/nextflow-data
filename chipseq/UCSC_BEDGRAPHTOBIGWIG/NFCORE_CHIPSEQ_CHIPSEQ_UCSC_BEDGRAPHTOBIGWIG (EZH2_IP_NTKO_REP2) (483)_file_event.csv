@@ -1,0 +1,7 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2024-01-24T01:04:52.495976455Z,2024-02-23T01:04:52.495976455Z,2024-02-22T22:13:28.620939327Z,CREATE,file_event,NFCORE_CHIPSEQ:CHIPSEQ:UCSC_BEDGRAPHTOBIGWIG (EZH2_IP_NTKO_REP2) (483),NFCORE_CHIPSEQ:CHIPSEQ:UCSC_BEDGRAPHTOBIGWIG (EZH2_IP_NTKO_REP2) (483),/home/jfechner/test-nfcore-workflows/profile_test_full/chipseq/work/9e/90d3a802e1574b5c40f5e18a3d4196/EZH2_IP_NTKO_REP2.bigWig,1078449,483
+,,0,2024-01-24T01:04:52.495976455Z,2024-02-23T01:04:52.495976455Z,2024-02-22T22:17:49.734112191Z,CREATE,file_event,NFCORE_CHIPSEQ:CHIPSEQ:UCSC_BEDGRAPHTOBIGWIG (EZH2_IP_NTKO_REP2) (483),NFCORE_CHIPSEQ:CHIPSEQ:UCSC_BEDGRAPHTOBIGWIG (EZH2_IP_NTKO_REP2) (483),/home/jfechner/test-nfcore-workflows/profile_test_full/chipseq/work/9e/90d3a802e1574b5c40f5e18a3d4196/versions.yml,1078449,483
+,,0,2024-01-24T01:04:52.495976455Z,2024-02-23T01:04:52.495976455Z,2024-02-22T22:17:50.998368369Z,CREATE,file_event,NFCORE_CHIPSEQ:CHIPSEQ:UCSC_BEDGRAPHTOBIGWIG (EZH2_IP_NTKO_REP2) (483),NFCORE_CHIPSEQ:CHIPSEQ:UCSC_BEDGRAPHTOBIGWIG (EZH2_IP_NTKO_REP2) (483),/home/jfechner/test-nfcore-workflows/profile_test_full/chipseq/work/9e/90d3a802e1574b5c40f5e18a3d4196/.exitcode,1078449,483

@@ -1,0 +1,9 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2024-01-24T01:05:00.926945014Z,2024-02-23T01:05:00.926945014Z,2024-02-22T22:17:51.704829976Z,CREATE,file_event,NFCORE_CHIPSEQ:CHIPSEQ:PLOT_MACS2_QC (486),NFCORE_CHIPSEQ:CHIPSEQ:PLOT_MACS2_QC (486),/home/jfechner/test-nfcore-workflows/profile_test_full/chipseq/work/b7/cb9512ab31a9601de212bf7bfa30e1/.command.trace,1105222,486
+,,0,2024-01-24T01:05:00.926945014Z,2024-02-23T01:05:00.926945014Z,2024-02-22T22:17:55.738106245Z,CREATE,file_event,NFCORE_CHIPSEQ:CHIPSEQ:PLOT_MACS2_QC (486),NFCORE_CHIPSEQ:CHIPSEQ:PLOT_MACS2_QC (486),/home/jfechner/test-nfcore-workflows/profile_test_full/chipseq/work/b7/cb9512ab31a9601de212bf7bfa30e1/macs2_peak.summary.txt,1105222,486
+,,0,2024-01-24T01:05:00.926945014Z,2024-02-23T01:05:00.926945014Z,2024-02-22T22:17:55.779317124Z,CREATE,file_event,NFCORE_CHIPSEQ:CHIPSEQ:PLOT_MACS2_QC (486),NFCORE_CHIPSEQ:CHIPSEQ:PLOT_MACS2_QC (486),/home/jfechner/test-nfcore-workflows/profile_test_full/chipseq/work/b7/cb9512ab31a9601de212bf7bfa30e1/macs2_peak.plots.pdf,1105222,486
+,,0,2024-01-24T01:05:00.926945014Z,2024-02-23T01:05:00.926945014Z,2024-02-22T22:18:01.792156397Z,CREATE,file_event,NFCORE_CHIPSEQ:CHIPSEQ:PLOT_MACS2_QC (486),NFCORE_CHIPSEQ:CHIPSEQ:PLOT_MACS2_QC (486),/home/jfechner/test-nfcore-workflows/profile_test_full/chipseq/work/b7/cb9512ab31a9601de212bf7bfa30e1/versions.yml,1105222,486
+,,0,2024-01-24T01:05:00.926945014Z,2024-02-23T01:05:00.926945014Z,2024-02-22T22:18:03.777103733Z,CREATE,file_event,NFCORE_CHIPSEQ:CHIPSEQ:PLOT_MACS2_QC (486),NFCORE_CHIPSEQ:CHIPSEQ:PLOT_MACS2_QC (486),/home/jfechner/test-nfcore-workflows/profile_test_full/chipseq/work/b7/cb9512ab31a9601de212bf7bfa30e1/.exitcode,1105222,486

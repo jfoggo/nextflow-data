@@ -1,0 +1,5 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2024-01-24T01:05:16.012214898Z,2024-02-23T01:05:16.012214898Z,2024-02-22T13:40:46.605738768Z,188.6648,docker_cpu_usage_pct,NFCORE_CHIPSEQ:CHIPSEQ:PICARD_MERGESAMFILES (INPUT_NTKO_REP1) (143),NFCORE_CHIPSEQ:CHIPSEQ:PICARD_MERGESAMFILES (INPUT_NTKO_REP1) (143),2266680,143

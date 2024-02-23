@@ -1,0 +1,7 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2024-01-24T01:04:49.773438051Z,2024-02-23T01:04:49.773438051Z,2024-02-22T10:43:47.120482566Z,CREATE,file_event,NFCORE_CHIPSEQ:CHIPSEQ:ALIGN_BWA_MEM:BWA_MEM (INPUT_NTKO_REP1_T1) (75),NFCORE_CHIPSEQ:CHIPSEQ:ALIGN_BWA_MEM:BWA_MEM (INPUT_NTKO_REP1_T1) (75),/home/jfechner/test-nfcore-workflows/profile_test_full/chipseq/work/de/a92386c3620f8672a819f9fa799718/INPUT_NTKO_REP1_T1.Lb.bam,1911573,75
+,,0,2024-01-24T01:04:49.773438051Z,2024-02-23T01:04:49.773438051Z,2024-02-22T11:37:38.127901039Z,CREATE,file_event,NFCORE_CHIPSEQ:CHIPSEQ:ALIGN_BWA_MEM:BWA_MEM (INPUT_NTKO_REP1_T1) (75),NFCORE_CHIPSEQ:CHIPSEQ:ALIGN_BWA_MEM:BWA_MEM (INPUT_NTKO_REP1_T1) (75),/home/jfechner/test-nfcore-workflows/profile_test_full/chipseq/work/de/a92386c3620f8672a819f9fa799718/versions.yml,1911573,75
+,,0,2024-01-24T01:04:49.773438051Z,2024-02-23T01:04:49.773438051Z,2024-02-22T11:37:39.343346044Z,CREATE,file_event,NFCORE_CHIPSEQ:CHIPSEQ:ALIGN_BWA_MEM:BWA_MEM (INPUT_NTKO_REP1_T1) (75),NFCORE_CHIPSEQ:CHIPSEQ:ALIGN_BWA_MEM:BWA_MEM (INPUT_NTKO_REP1_T1) (75),/home/jfechner/test-nfcore-workflows/profile_test_full/chipseq/work/de/a92386c3620f8672a819f9fa799718/.exitcode,1911573,75

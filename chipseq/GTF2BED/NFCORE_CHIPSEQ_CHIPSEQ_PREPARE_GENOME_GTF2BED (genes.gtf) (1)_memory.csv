@@ -1,0 +1,7 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2024-01-24T01:04:58.766206401Z,2024-02-23T01:04:58.766206401Z,2024-02-22T00:59:45.637444659Z,305.44,docker_used_memory_mb,NFCORE_CHIPSEQ:CHIPSEQ:PREPARE_GENOME:GTF2BED (genes.gtf) (1),NFCORE_CHIPSEQ:CHIPSEQ:PREPARE_GENOME:GTF2BED (genes.gtf) (1),386793,1
+,,0,2024-01-24T01:04:58.766206401Z,2024-02-23T01:04:58.766206401Z,2024-02-22T00:59:47.637032358Z,708.71,docker_used_memory_mb,NFCORE_CHIPSEQ:CHIPSEQ:PREPARE_GENOME:GTF2BED (genes.gtf) (1),NFCORE_CHIPSEQ:CHIPSEQ:PREPARE_GENOME:GTF2BED (genes.gtf) (1),386793,1
+,,0,2024-01-24T01:04:58.766206401Z,2024-02-23T01:04:58.766206401Z,2024-02-22T00:59:49.637180626Z,978.18,docker_used_memory_mb,NFCORE_CHIPSEQ:CHIPSEQ:PREPARE_GENOME:GTF2BED (genes.gtf) (1),NFCORE_CHIPSEQ:CHIPSEQ:PREPARE_GENOME:GTF2BED (genes.gtf) (1),386793,1

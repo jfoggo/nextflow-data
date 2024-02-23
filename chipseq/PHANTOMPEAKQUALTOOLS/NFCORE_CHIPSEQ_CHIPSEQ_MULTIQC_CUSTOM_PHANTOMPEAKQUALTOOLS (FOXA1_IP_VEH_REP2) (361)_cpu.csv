@@ -1,0 +1,5 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2024-01-24T01:05:04.514491074Z,2024-02-23T01:05:04.514491074Z,2024-02-22T18:01:50.565578194Z,43.2191,docker_cpu_usage_pct,NFCORE_CHIPSEQ:CHIPSEQ:MULTIQC_CUSTOM_PHANTOMPEAKQUALTOOLS (FOXA1_IP_VEH_REP2) (361),NFCORE_CHIPSEQ:CHIPSEQ:MULTIQC_CUSTOM_PHANTOMPEAKQUALTOOLS (FOXA1_IP_VEH_REP2) (361),3865892,361

@@ -1,0 +1,7 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2024-01-24T01:04:41.96684819Z,2024-02-23T01:04:41.96684819Z,2024-02-22T17:20:57.060205025Z,CREATE,file_event,NFCORE_CHIPSEQ:CHIPSEQ:FILTER_BAM_BAMTOOLS:BAM_FILTER (EZH2_IP_NTKO_REP2) (255),NFCORE_CHIPSEQ:CHIPSEQ:FILTER_BAM_BAMTOOLS:BAM_FILTER (EZH2_IP_NTKO_REP2) (255),/home/jfechner/test-nfcore-workflows/profile_test_full/chipseq/work/b2/d9b22c503b8044d66b8b9013916ab0/EZH2_IP_NTKO_REP2.mLb.noPublish.bam,3563196,255
+,,0,2024-01-24T01:04:41.96684819Z,2024-02-23T01:04:41.96684819Z,2024-02-22T17:43:33.817777059Z,CREATE,file_event,NFCORE_CHIPSEQ:CHIPSEQ:FILTER_BAM_BAMTOOLS:BAM_FILTER (EZH2_IP_NTKO_REP2) (255),NFCORE_CHIPSEQ:CHIPSEQ:FILTER_BAM_BAMTOOLS:BAM_FILTER (EZH2_IP_NTKO_REP2) (255),/home/jfechner/test-nfcore-workflows/profile_test_full/chipseq/work/b2/d9b22c503b8044d66b8b9013916ab0/versions.yml,3563196,255
+,,0,2024-01-24T01:04:41.96684819Z,2024-02-23T01:04:41.96684819Z,2024-02-22T17:43:34.077251857Z,CREATE,file_event,NFCORE_CHIPSEQ:CHIPSEQ:FILTER_BAM_BAMTOOLS:BAM_FILTER (EZH2_IP_NTKO_REP2) (255),NFCORE_CHIPSEQ:CHIPSEQ:FILTER_BAM_BAMTOOLS:BAM_FILTER (EZH2_IP_NTKO_REP2) (255),/home/jfechner/test-nfcore-workflows/profile_test_full/chipseq/work/b2/d9b22c503b8044d66b8b9013916ab0/.exitcode,3563196,255

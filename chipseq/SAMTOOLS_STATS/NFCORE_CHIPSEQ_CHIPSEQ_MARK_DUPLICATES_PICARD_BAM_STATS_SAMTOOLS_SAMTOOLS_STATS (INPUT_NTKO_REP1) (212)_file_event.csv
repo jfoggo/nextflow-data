@@ -1,0 +1,6 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2024-01-24T01:05:08.780471942Z,2024-02-23T01:05:08.780471942Z,2024-02-22T15:17:36.570080784Z,CREATE,file_event,NFCORE_CHIPSEQ:CHIPSEQ:MARK_DUPLICATES_PICARD:BAM_STATS_SAMTOOLS:SAMTOOLS_STATS (INPUT_NTKO_REP1) (212),NFCORE_CHIPSEQ:CHIPSEQ:MARK_DUPLICATES_PICARD:BAM_STATS_SAMTOOLS:SAMTOOLS_STATS (INPUT_NTKO_REP1) (212),/home/jfechner/test-nfcore-workflows/profile_test_full/chipseq/work/c3/4fbfedd5a1670968fe1effceb21d21/versions.yml,2823133,212
+,,0,2024-01-24T01:05:08.780471942Z,2024-02-23T01:05:08.780471942Z,2024-02-22T15:17:36.87611642Z,CREATE,file_event,NFCORE_CHIPSEQ:CHIPSEQ:MARK_DUPLICATES_PICARD:BAM_STATS_SAMTOOLS:SAMTOOLS_STATS (INPUT_NTKO_REP1) (212),NFCORE_CHIPSEQ:CHIPSEQ:MARK_DUPLICATES_PICARD:BAM_STATS_SAMTOOLS:SAMTOOLS_STATS (INPUT_NTKO_REP1) (212),/home/jfechner/test-nfcore-workflows/profile_test_full/chipseq/work/c3/4fbfedd5a1670968fe1effceb21d21/.exitcode,2823133,212

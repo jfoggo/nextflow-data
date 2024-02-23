@@ -1,0 +1,8 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2024-01-24T01:04:58.789292248Z,2024-02-23T01:04:58.789292248Z,2024-02-22T00:59:43.172577459Z,CREATE,file_event,NFCORE_CHIPSEQ:CHIPSEQ:PREPARE_GENOME:GTF2BED (genes.gtf) (1),NFCORE_CHIPSEQ:CHIPSEQ:PREPARE_GENOME:GTF2BED (genes.gtf) (1),/home/jfechner/test-nfcore-workflows/profile_test_full/chipseq/work/5a/af6034411952ea178f2c268a383bec/.command.trace,386793,1
+,,0,2024-01-24T01:04:58.789292248Z,2024-02-23T01:04:58.789292248Z,2024-02-22T00:59:43.187476409Z,CREATE,file_event,NFCORE_CHIPSEQ:CHIPSEQ:PREPARE_GENOME:GTF2BED (genes.gtf) (1),NFCORE_CHIPSEQ:CHIPSEQ:PREPARE_GENOME:GTF2BED (genes.gtf) (1),/home/jfechner/test-nfcore-workflows/profile_test_full/chipseq/work/5a/af6034411952ea178f2c268a383bec/genes.bed,386793,1
+,,0,2024-01-24T01:04:58.789292248Z,2024-02-23T01:04:58.789292248Z,2024-02-22T00:59:49.244478485Z,CREATE,file_event,NFCORE_CHIPSEQ:CHIPSEQ:PREPARE_GENOME:GTF2BED (genes.gtf) (1),NFCORE_CHIPSEQ:CHIPSEQ:PREPARE_GENOME:GTF2BED (genes.gtf) (1),/home/jfechner/test-nfcore-workflows/profile_test_full/chipseq/work/5a/af6034411952ea178f2c268a383bec/versions.yml,386793,1
+,,0,2024-01-24T01:04:58.789292248Z,2024-02-23T01:04:58.789292248Z,2024-02-22T00:59:50.753431278Z,CREATE,file_event,NFCORE_CHIPSEQ:CHIPSEQ:PREPARE_GENOME:GTF2BED (genes.gtf) (1),NFCORE_CHIPSEQ:CHIPSEQ:PREPARE_GENOME:GTF2BED (genes.gtf) (1),/home/jfechner/test-nfcore-workflows/profile_test_full/chipseq/work/5a/af6034411952ea178f2c268a383bec/.exitcode,386793,1

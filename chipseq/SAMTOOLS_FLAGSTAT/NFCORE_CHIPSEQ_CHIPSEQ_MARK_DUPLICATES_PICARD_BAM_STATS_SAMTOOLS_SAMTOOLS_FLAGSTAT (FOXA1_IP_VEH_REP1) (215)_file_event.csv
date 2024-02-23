@@ -1,0 +1,6 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2024-01-24T01:05:12.426343556Z,2024-02-23T01:05:12.426343556Z,2024-02-22T15:18:59.21357556Z,CREATE,file_event,NFCORE_CHIPSEQ:CHIPSEQ:MARK_DUPLICATES_PICARD:BAM_STATS_SAMTOOLS:SAMTOOLS_FLAGSTAT (FOXA1_IP_VEH_REP1) (215),NFCORE_CHIPSEQ:CHIPSEQ:MARK_DUPLICATES_PICARD:BAM_STATS_SAMTOOLS:SAMTOOLS_FLAGSTAT (FOXA1_IP_VEH_REP1) (215),/home/jfechner/test-nfcore-workflows/profile_test_full/chipseq/work/ea/0105545de4a93ee2ea1641fe562a18/versions.yml,2870716,215
+,,0,2024-01-24T01:05:12.426343556Z,2024-02-23T01:05:12.426343556Z,2024-02-22T15:18:59.530069035Z,CREATE,file_event,NFCORE_CHIPSEQ:CHIPSEQ:MARK_DUPLICATES_PICARD:BAM_STATS_SAMTOOLS:SAMTOOLS_FLAGSTAT (FOXA1_IP_VEH_REP1) (215),NFCORE_CHIPSEQ:CHIPSEQ:MARK_DUPLICATES_PICARD:BAM_STATS_SAMTOOLS:SAMTOOLS_FLAGSTAT (FOXA1_IP_VEH_REP1) (215),/home/jfechner/test-nfcore-workflows/profile_test_full/chipseq/work/ea/0105545de4a93ee2ea1641fe562a18/.exitcode,2870716,215

@@ -1,0 +1,5 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2024-01-24T01:05:15.48059668Z,2024-02-23T01:05:15.48059668Z,2024-02-22T13:40:46.228079664Z,56.33,docker_used_memory_mb,NFCORE_CHIPSEQ:CHIPSEQ:PICARD_MERGESAMFILES (EZH2_IP_NTKO_REP1) (135),NFCORE_CHIPSEQ:CHIPSEQ:PICARD_MERGESAMFILES (EZH2_IP_NTKO_REP1) (135),2266457,135

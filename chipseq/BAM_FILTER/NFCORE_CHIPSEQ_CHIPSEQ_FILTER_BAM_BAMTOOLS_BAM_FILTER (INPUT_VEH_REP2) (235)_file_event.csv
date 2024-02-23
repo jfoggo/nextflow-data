@@ -1,0 +1,7 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2024-01-24T01:04:42.935984511Z,2024-02-23T01:04:42.935984511Z,2024-02-22T17:14:16.638406196Z,CREATE,file_event,NFCORE_CHIPSEQ:CHIPSEQ:FILTER_BAM_BAMTOOLS:BAM_FILTER (INPUT_VEH_REP2) (235),NFCORE_CHIPSEQ:CHIPSEQ:FILTER_BAM_BAMTOOLS:BAM_FILTER (INPUT_VEH_REP2) (235),/home/jfechner/test-nfcore-workflows/profile_test_full/chipseq/work/cd/402fb6c6760a8d8e82e96e1686d923/INPUT_VEH_REP2.mLb.noPublish.bam,3521215,235
+,,0,2024-01-24T01:04:42.935984511Z,2024-02-23T01:04:42.935984511Z,2024-02-22T17:18:01.759229677Z,CREATE,file_event,NFCORE_CHIPSEQ:CHIPSEQ:FILTER_BAM_BAMTOOLS:BAM_FILTER (INPUT_VEH_REP2) (235),NFCORE_CHIPSEQ:CHIPSEQ:FILTER_BAM_BAMTOOLS:BAM_FILTER (INPUT_VEH_REP2) (235),/home/jfechner/test-nfcore-workflows/profile_test_full/chipseq/work/cd/402fb6c6760a8d8e82e96e1686d923/versions.yml,3521215,235
+,,0,2024-01-24T01:04:42.935984511Z,2024-02-23T01:04:42.935984511Z,2024-02-22T17:18:02.18932921Z,CREATE,file_event,NFCORE_CHIPSEQ:CHIPSEQ:FILTER_BAM_BAMTOOLS:BAM_FILTER (INPUT_VEH_REP2) (235),NFCORE_CHIPSEQ:CHIPSEQ:FILTER_BAM_BAMTOOLS:BAM_FILTER (INPUT_VEH_REP2) (235),/home/jfechner/test-nfcore-workflows/profile_test_full/chipseq/work/cd/402fb6c6760a8d8e82e96e1686d923/.exitcode,3521215,235

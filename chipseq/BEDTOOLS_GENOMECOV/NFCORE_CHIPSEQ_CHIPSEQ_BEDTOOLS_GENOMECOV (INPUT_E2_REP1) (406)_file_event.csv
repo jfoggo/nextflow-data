@@ -1,0 +1,6 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2024-01-24T01:05:03.297981889Z,2024-02-23T01:05:03.297981889Z,2024-02-22T20:42:00.314092912Z,CREATE,file_event,NFCORE_CHIPSEQ:CHIPSEQ:BEDTOOLS_GENOMECOV (INPUT_E2_REP1) (406),NFCORE_CHIPSEQ:CHIPSEQ:BEDTOOLS_GENOMECOV (INPUT_E2_REP1) (406),/home/jfechner/test-nfcore-workflows/profile_test_full/chipseq/work/b3/9595994e763aee7ca65c05770e1110/versions.yml,526300,406
+,,0,2024-01-24T01:05:03.297981889Z,2024-02-23T01:05:03.297981889Z,2024-02-22T20:42:02.464643393Z,CREATE,file_event,NFCORE_CHIPSEQ:CHIPSEQ:BEDTOOLS_GENOMECOV (INPUT_E2_REP1) (406),NFCORE_CHIPSEQ:CHIPSEQ:BEDTOOLS_GENOMECOV (INPUT_E2_REP1) (406),/home/jfechner/test-nfcore-workflows/profile_test_full/chipseq/work/b3/9595994e763aee7ca65c05770e1110/.exitcode,526300,406

@@ -1,0 +1,7 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2024-01-24T01:04:33.147506104Z,2024-02-23T01:04:33.147506104Z,2024-02-22T14:31:32.318623247Z,CREATE,file_event,NFCORE_CHIPSEQ:CHIPSEQ:MARK_DUPLICATES_PICARD:SAMTOOLS_INDEX (INPUT_TKO_REP2) (190),NFCORE_CHIPSEQ:CHIPSEQ:MARK_DUPLICATES_PICARD:SAMTOOLS_INDEX (INPUT_TKO_REP2) (190),/home/jfechner/test-nfcore-workflows/profile_test_full/chipseq/work/24/b6d3c0f3fb0a46c2cf58c3ce85de74/INPUT_TKO_REP2.mLb.mkD.sorted.bam.bai,2571375,190
+,,0,2024-01-24T01:04:33.147506104Z,2024-02-23T01:04:33.147506104Z,2024-02-22T14:31:32.352369806Z,CREATE,file_event,NFCORE_CHIPSEQ:CHIPSEQ:MARK_DUPLICATES_PICARD:SAMTOOLS_INDEX (INPUT_TKO_REP2) (190),NFCORE_CHIPSEQ:CHIPSEQ:MARK_DUPLICATES_PICARD:SAMTOOLS_INDEX (INPUT_TKO_REP2) (190),/home/jfechner/test-nfcore-workflows/profile_test_full/chipseq/work/24/b6d3c0f3fb0a46c2cf58c3ce85de74/versions.yml,2571375,190
+,,0,2024-01-24T01:04:33.147506104Z,2024-02-23T01:04:33.147506104Z,2024-02-22T14:31:32.633220811Z,CREATE,file_event,NFCORE_CHIPSEQ:CHIPSEQ:MARK_DUPLICATES_PICARD:SAMTOOLS_INDEX (INPUT_TKO_REP2) (190),NFCORE_CHIPSEQ:CHIPSEQ:MARK_DUPLICATES_PICARD:SAMTOOLS_INDEX (INPUT_TKO_REP2) (190),/home/jfechner/test-nfcore-workflows/profile_test_full/chipseq/work/24/b6d3c0f3fb0a46c2cf58c3ce85de74/.exitcode,2571375,190
