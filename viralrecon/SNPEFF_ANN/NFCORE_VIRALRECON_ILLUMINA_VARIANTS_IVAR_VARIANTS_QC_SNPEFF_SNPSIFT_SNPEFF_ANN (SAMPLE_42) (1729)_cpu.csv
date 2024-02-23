@@ -1,0 +1,5 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2024-01-24T01:54:50.031022995Z,2024-02-23T01:54:50.031022995Z,2024-02-22T00:13:37.283682193Z,238.1052,docker_cpu_usage_pct,NFCORE_VIRALRECON:ILLUMINA:VARIANTS_IVAR:VARIANTS_QC:SNPEFF_SNPSIFT:SNPEFF_ANN (SAMPLE_42) (1729),NFCORE_VIRALRECON:ILLUMINA:VARIANTS_IVAR:VARIANTS_QC:SNPEFF_SNPSIFT:SNPEFF_ANN (SAMPLE_42) (1729),3986437,1729

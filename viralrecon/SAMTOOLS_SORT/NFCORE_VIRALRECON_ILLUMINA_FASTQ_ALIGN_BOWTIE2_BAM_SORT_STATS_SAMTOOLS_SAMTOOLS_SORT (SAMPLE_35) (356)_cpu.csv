@@ -1,0 +1,5 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2024-01-24T01:49:49.11955537Z,2024-02-23T01:49:49.11955537Z,2024-02-21T21:38:27.838764564Z,575.803,docker_cpu_usage_pct,NFCORE_VIRALRECON:ILLUMINA:FASTQ_ALIGN_BOWTIE2:BAM_SORT_STATS_SAMTOOLS:SAMTOOLS_SORT (SAMPLE_35) (356),NFCORE_VIRALRECON:ILLUMINA:FASTQ_ALIGN_BOWTIE2:BAM_SORT_STATS_SAMTOOLS:SAMTOOLS_SORT (SAMPLE_35) (356),1797640,356

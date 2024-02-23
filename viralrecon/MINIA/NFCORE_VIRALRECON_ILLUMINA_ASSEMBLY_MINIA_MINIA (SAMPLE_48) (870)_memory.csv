@@ -1,0 +1,6 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2024-01-24T01:54:36.466040064Z,2024-02-23T01:54:36.466040064Z,2024-02-22T00:44:05.874182709Z,311.72,docker_used_memory_mb,NFCORE_VIRALRECON:ILLUMINA:ASSEMBLY_MINIA:MINIA (SAMPLE_48) (870),NFCORE_VIRALRECON:ILLUMINA:ASSEMBLY_MINIA:MINIA (SAMPLE_48) (870),139167,870
+,,0,2024-01-24T01:54:36.466040064Z,2024-02-23T01:54:36.466040064Z,2024-02-22T00:44:07.873723503Z,226.52,docker_used_memory_mb,NFCORE_VIRALRECON:ILLUMINA:ASSEMBLY_MINIA:MINIA (SAMPLE_48) (870),NFCORE_VIRALRECON:ILLUMINA:ASSEMBLY_MINIA:MINIA (SAMPLE_48) (870),139167,870

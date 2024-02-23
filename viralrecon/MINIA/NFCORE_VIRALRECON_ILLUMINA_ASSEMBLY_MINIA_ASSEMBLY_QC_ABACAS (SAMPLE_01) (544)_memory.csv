@@ -1,0 +1,5 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2024-01-24T01:54:33.024338849Z,2024-02-23T01:54:33.024338849Z,2024-02-21T22:01:38.040428556Z,8.83,docker_used_memory_mb,NFCORE_VIRALRECON:ILLUMINA:ASSEMBLY_MINIA:ASSEMBLY_QC:ABACAS (SAMPLE_01) (544),NFCORE_VIRALRECON:ILLUMINA:ASSEMBLY_MINIA:ASSEMBLY_QC:ABACAS (SAMPLE_01) (544),2145223,544

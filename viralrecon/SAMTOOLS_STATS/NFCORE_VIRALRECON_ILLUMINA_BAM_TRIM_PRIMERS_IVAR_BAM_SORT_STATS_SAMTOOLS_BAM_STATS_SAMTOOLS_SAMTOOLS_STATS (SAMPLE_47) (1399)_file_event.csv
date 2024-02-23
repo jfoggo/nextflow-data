@@ -1,0 +1,6 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2024-01-24T01:57:02.946311324Z,2024-02-23T01:57:02.946311324Z,2024-02-21T22:23:30.31486593Z,CREATE,file_event,NFCORE_VIRALRECON:ILLUMINA:BAM_TRIM_PRIMERS_IVAR:BAM_SORT_STATS_SAMTOOLS:BAM_STATS_SAMTOOLS:SAMTOOLS_STATS (SAMPLE_47) (1399),NFCORE_VIRALRECON:ILLUMINA:BAM_TRIM_PRIMERS_IVAR:BAM_SORT_STATS_SAMTOOLS:BAM_STATS_SAMTOOLS:SAMTOOLS_STATS (SAMPLE_47) (1399),/home/jfechner/test-nfcore-workflows/profile_test_full/viralrecon/work/aa/f06b4acc1e62f1f7e4e255a2c8be5f/versions.yml,2583824,1399
+,,0,2024-01-24T01:57:02.946311324Z,2024-02-23T01:57:02.946311324Z,2024-02-21T22:23:30.604018038Z,CREATE,file_event,NFCORE_VIRALRECON:ILLUMINA:BAM_TRIM_PRIMERS_IVAR:BAM_SORT_STATS_SAMTOOLS:BAM_STATS_SAMTOOLS:SAMTOOLS_STATS (SAMPLE_47) (1399),NFCORE_VIRALRECON:ILLUMINA:BAM_TRIM_PRIMERS_IVAR:BAM_SORT_STATS_SAMTOOLS:BAM_STATS_SAMTOOLS:SAMTOOLS_STATS (SAMPLE_47) (1399),/home/jfechner/test-nfcore-workflows/profile_test_full/viralrecon/work/aa/f06b4acc1e62f1f7e4e255a2c8be5f/.exitcode,2583824,1399

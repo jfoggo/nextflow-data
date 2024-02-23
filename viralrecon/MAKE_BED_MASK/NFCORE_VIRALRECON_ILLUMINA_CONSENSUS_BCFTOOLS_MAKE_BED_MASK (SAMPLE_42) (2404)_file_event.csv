@@ -1,0 +1,7 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2024-01-24T01:47:35.574914593Z,2024-02-23T01:47:35.574914593Z,2024-02-22T00:14:19.433903689Z,CREATE,file_event,NFCORE_VIRALRECON:ILLUMINA:CONSENSUS_BCFTOOLS:MAKE_BED_MASK (SAMPLE_42) (2404),NFCORE_VIRALRECON:ILLUMINA:CONSENSUS_BCFTOOLS:MAKE_BED_MASK (SAMPLE_42) (2404),/home/jfechner/test-nfcore-workflows/profile_test_full/viralrecon/work/2d/8df6328e8f8d24e216d15fc80abbce/SAMPLE_42.coverage.masked.bed,3993850,2404
+,,0,2024-01-24T01:47:35.574914593Z,2024-02-23T01:47:35.574914593Z,2024-02-22T00:14:19.45303709Z,CREATE,file_event,NFCORE_VIRALRECON:ILLUMINA:CONSENSUS_BCFTOOLS:MAKE_BED_MASK (SAMPLE_42) (2404),NFCORE_VIRALRECON:ILLUMINA:CONSENSUS_BCFTOOLS:MAKE_BED_MASK (SAMPLE_42) (2404),/home/jfechner/test-nfcore-workflows/profile_test_full/viralrecon/work/2d/8df6328e8f8d24e216d15fc80abbce/versions.yml,3993850,2404
+,,0,2024-01-24T01:47:35.574914593Z,2024-02-23T01:47:35.574914593Z,2024-02-22T00:14:19.778222169Z,CREATE,file_event,NFCORE_VIRALRECON:ILLUMINA:CONSENSUS_BCFTOOLS:MAKE_BED_MASK (SAMPLE_42) (2404),NFCORE_VIRALRECON:ILLUMINA:CONSENSUS_BCFTOOLS:MAKE_BED_MASK (SAMPLE_42) (2404),/home/jfechner/test-nfcore-workflows/profile_test_full/viralrecon/work/2d/8df6328e8f8d24e216d15fc80abbce/.exitcode,3993850,2404

@@ -1,0 +1,6 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2024-01-24T01:53:54.50739625Z,2024-02-23T01:53:54.50739625Z,2024-02-21T21:02:29.906725262Z,335.4646,docker_cpu_usage_pct,NFCORE_VIRALRECON:ILLUMINA:KRAKEN2_KRAKEN2 (SAMPLE_26) (198),NFCORE_VIRALRECON:ILLUMINA:KRAKEN2_KRAKEN2 (SAMPLE_26) (198),1321838,198
+,,0,2024-01-24T01:53:54.50739625Z,2024-02-23T01:53:54.50739625Z,2024-02-21T21:02:31.906556993Z,916.4997,docker_cpu_usage_pct,NFCORE_VIRALRECON:ILLUMINA:KRAKEN2_KRAKEN2 (SAMPLE_26) (198),NFCORE_VIRALRECON:ILLUMINA:KRAKEN2_KRAKEN2 (SAMPLE_26) (198),1321838,198

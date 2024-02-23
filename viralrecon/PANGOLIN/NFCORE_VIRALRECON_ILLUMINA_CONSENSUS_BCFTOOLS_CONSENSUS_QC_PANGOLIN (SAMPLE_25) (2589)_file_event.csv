@@ -1,0 +1,7 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2024-01-24T01:55:14.615819776Z,2024-02-23T01:55:14.615819776Z,2024-02-22T00:47:15.247037162Z,CREATE,file_event,NFCORE_VIRALRECON:ILLUMINA:CONSENSUS_BCFTOOLS:CONSENSUS_QC:PANGOLIN (SAMPLE_25) (2589),NFCORE_VIRALRECON:ILLUMINA:CONSENSUS_BCFTOOLS:CONSENSUS_QC:PANGOLIN (SAMPLE_25) (2589),/home/jfechner/test-nfcore-workflows/profile_test_full/viralrecon/work/7b/b2aa276ca4121cb0b6c6c5d870d0cc/SAMPLE_25.pangolin.csv,281647,2589
+,,0,2024-01-24T01:55:14.615819776Z,2024-02-23T01:55:14.615819776Z,2024-02-22T00:47:15.628361116Z,CREATE,file_event,NFCORE_VIRALRECON:ILLUMINA:CONSENSUS_BCFTOOLS:CONSENSUS_QC:PANGOLIN (SAMPLE_25) (2589),NFCORE_VIRALRECON:ILLUMINA:CONSENSUS_BCFTOOLS:CONSENSUS_QC:PANGOLIN (SAMPLE_25) (2589),/home/jfechner/test-nfcore-workflows/profile_test_full/viralrecon/work/7b/b2aa276ca4121cb0b6c6c5d870d0cc/versions.yml,281647,2589
+,,0,2024-01-24T01:55:14.615819776Z,2024-02-23T01:55:14.615819776Z,2024-02-22T00:47:15.922960003Z,CREATE,file_event,NFCORE_VIRALRECON:ILLUMINA:CONSENSUS_BCFTOOLS:CONSENSUS_QC:PANGOLIN (SAMPLE_25) (2589),NFCORE_VIRALRECON:ILLUMINA:CONSENSUS_BCFTOOLS:CONSENSUS_QC:PANGOLIN (SAMPLE_25) (2589),/home/jfechner/test-nfcore-workflows/profile_test_full/viralrecon/work/7b/b2aa276ca4121cb0b6c6c5d870d0cc/.exitcode,281647,2589

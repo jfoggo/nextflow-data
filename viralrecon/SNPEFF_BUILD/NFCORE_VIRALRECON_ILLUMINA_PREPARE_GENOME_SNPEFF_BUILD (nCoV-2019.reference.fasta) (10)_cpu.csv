@@ -1,0 +1,5 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2024-01-24T01:56:26.746316629Z,2024-02-23T01:56:26.746316629Z,2024-02-21T20:40:56.698360897Z,66.725,docker_cpu_usage_pct,NFCORE_VIRALRECON:ILLUMINA:PREPARE_GENOME:SNPEFF_BUILD (nCoV-2019.reference.fasta) (10),NFCORE_VIRALRECON:ILLUMINA:PREPARE_GENOME:SNPEFF_BUILD (nCoV-2019.reference.fasta) (10),1041030,10

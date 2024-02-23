@@ -1,0 +1,8 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2024-01-24T01:53:25.299540661Z,2024-02-23T01:53:25.299540661Z,2024-02-21T21:14:07.891778124Z,CREATE,file_event,NFCORE_VIRALRECON:ILLUMINA:CUTADAPT (SAMPLE_13) (291),NFCORE_VIRALRECON:ILLUMINA:CUTADAPT (SAMPLE_13) (291),/home/jfechner/test-nfcore-workflows/profile_test_full/viralrecon/work/f0/d1fac3f4a3d237c35511487d698ddf/SAMPLE_13.primer_trim_1.fastq.gz,1467978,291
+,,0,2024-01-24T01:53:25.299540661Z,2024-02-23T01:53:25.299540661Z,2024-02-21T21:14:07.90005975Z,CREATE,file_event,NFCORE_VIRALRECON:ILLUMINA:CUTADAPT (SAMPLE_13) (291),NFCORE_VIRALRECON:ILLUMINA:CUTADAPT (SAMPLE_13) (291),/home/jfechner/test-nfcore-workflows/profile_test_full/viralrecon/work/f0/d1fac3f4a3d237c35511487d698ddf/SAMPLE_13.primer_trim_2.fastq.gz,1467978,291
+,,0,2024-01-24T01:53:25.299540661Z,2024-02-23T01:53:25.299540661Z,2024-02-21T21:14:18.473623998Z,CREATE,file_event,NFCORE_VIRALRECON:ILLUMINA:CUTADAPT (SAMPLE_13) (291),NFCORE_VIRALRECON:ILLUMINA:CUTADAPT (SAMPLE_13) (291),/home/jfechner/test-nfcore-workflows/profile_test_full/viralrecon/work/f0/d1fac3f4a3d237c35511487d698ddf/versions.yml,1467978,291
+,,0,2024-01-24T01:53:25.299540661Z,2024-02-23T01:53:25.299540661Z,2024-02-21T21:14:18.812089243Z,CREATE,file_event,NFCORE_VIRALRECON:ILLUMINA:CUTADAPT (SAMPLE_13) (291),NFCORE_VIRALRECON:ILLUMINA:CUTADAPT (SAMPLE_13) (291),/home/jfechner/test-nfcore-workflows/profile_test_full/viralrecon/work/f0/d1fac3f4a3d237c35511487d698ddf/.exitcode,1467978,291

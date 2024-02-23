@@ -1,0 +1,6 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2024-01-24T01:57:17.703355573Z,2024-02-23T01:57:17.703355573Z,2024-02-21T22:00:36.90928108Z,187.28,docker_used_memory_mb,NFCORE_VIRALRECON:ILLUMINA:FASTQC (SAMPLE_27) (497),NFCORE_VIRALRECON:ILLUMINA:FASTQC (SAMPLE_27) (497),2126277,497
+,,0,2024-01-24T01:57:17.703355573Z,2024-02-23T01:57:17.703355573Z,2024-02-21T22:00:38.910140899Z,347.81,docker_used_memory_mb,NFCORE_VIRALRECON:ILLUMINA:FASTQC (SAMPLE_27) (497),NFCORE_VIRALRECON:ILLUMINA:FASTQC (SAMPLE_27) (497),2126277,497

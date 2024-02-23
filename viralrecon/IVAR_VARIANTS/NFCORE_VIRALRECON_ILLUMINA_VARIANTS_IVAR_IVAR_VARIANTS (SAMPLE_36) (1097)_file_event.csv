@@ -1,0 +1,6 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2024-01-24T01:58:14.631477557Z,2024-02-23T01:58:14.631477557Z,2024-02-21T22:28:36.408817507Z,CREATE,file_event,NFCORE_VIRALRECON:ILLUMINA:VARIANTS_IVAR:IVAR_VARIANTS (SAMPLE_36) (1097),NFCORE_VIRALRECON:ILLUMINA:VARIANTS_IVAR:IVAR_VARIANTS (SAMPLE_36) (1097),/home/jfechner/test-nfcore-workflows/profile_test_full/viralrecon/work/65/b7b1fef0acde2b168b1235c3b99b8f/versions.yml,2648857,1097
+,,0,2024-01-24T01:58:14.631477557Z,2024-02-23T01:58:14.631477557Z,2024-02-21T22:28:37.05019311Z,CREATE,file_event,NFCORE_VIRALRECON:ILLUMINA:VARIANTS_IVAR:IVAR_VARIANTS (SAMPLE_36) (1097),NFCORE_VIRALRECON:ILLUMINA:VARIANTS_IVAR:IVAR_VARIANTS (SAMPLE_36) (1097),/home/jfechner/test-nfcore-workflows/profile_test_full/viralrecon/work/65/b7b1fef0acde2b168b1235c3b99b8f/.exitcode,2648857,1097

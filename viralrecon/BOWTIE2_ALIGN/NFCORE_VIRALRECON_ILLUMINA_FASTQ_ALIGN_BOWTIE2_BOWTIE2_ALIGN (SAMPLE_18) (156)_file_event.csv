@@ -1,0 +1,6 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2024-01-24T01:51:36.362849154Z,2024-02-23T01:51:36.362849154Z,2024-02-21T20:58:21.905503245Z,CREATE,file_event,NFCORE_VIRALRECON:ILLUMINA:FASTQ_ALIGN_BOWTIE2:BOWTIE2_ALIGN (SAMPLE_18) (156),NFCORE_VIRALRECON:ILLUMINA:FASTQ_ALIGN_BOWTIE2:BOWTIE2_ALIGN (SAMPLE_18) (156),/home/jfechner/test-nfcore-workflows/profile_test_full/viralrecon/work/c0/283934b24b588e9a7ab61e64da33ff/versions.yml,1262755,156
+,,0,2024-01-24T01:51:36.362849154Z,2024-02-23T01:51:36.362849154Z,2024-02-21T20:58:22.172879698Z,CREATE,file_event,NFCORE_VIRALRECON:ILLUMINA:FASTQ_ALIGN_BOWTIE2:BOWTIE2_ALIGN (SAMPLE_18) (156),NFCORE_VIRALRECON:ILLUMINA:FASTQ_ALIGN_BOWTIE2:BOWTIE2_ALIGN (SAMPLE_18) (156),/home/jfechner/test-nfcore-workflows/profile_test_full/viralrecon/work/c0/283934b24b588e9a7ab61e64da33ff/.exitcode,1262755,156
