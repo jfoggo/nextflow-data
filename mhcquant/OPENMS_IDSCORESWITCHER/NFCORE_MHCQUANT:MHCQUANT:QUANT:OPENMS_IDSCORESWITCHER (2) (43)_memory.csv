@@ -1,0 +1,6 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2024-01-25T10:56:52.694101016Z,2024-02-24T10:56:52.694101016Z,2024-02-24T05:48:13.573929539Z,41.19,docker_used_memory_mb,NFCORE_MHCQUANT:MHCQUANT:QUANT:OPENMS_IDSCORESWITCHER (2) (43),NFCORE_MHCQUANT:MHCQUANT:QUANT:OPENMS_IDSCORESWITCHER (2) (43),2947989,43
+,,0,2024-01-25T10:56:52.694101016Z,2024-02-24T10:56:52.694101016Z,2024-02-24T05:48:15.573589352Z,74.1,docker_used_memory_mb,NFCORE_MHCQUANT:MHCQUANT:QUANT:OPENMS_IDSCORESWITCHER (2) (43),NFCORE_MHCQUANT:MHCQUANT:QUANT:OPENMS_IDSCORESWITCHER (2) (43),2947989,43

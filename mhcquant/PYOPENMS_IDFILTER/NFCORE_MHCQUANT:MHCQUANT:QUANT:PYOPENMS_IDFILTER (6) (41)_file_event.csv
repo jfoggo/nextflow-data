@@ -1,0 +1,8 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2024-01-25T10:56:54.169338142Z,2024-02-24T10:56:54.169338142Z,2024-02-24T05:48:37.624910776Z,CREATE,file_event,NFCORE_MHCQUANT:MHCQUANT:QUANT:PYOPENMS_IDFILTER (6) (41),NFCORE_MHCQUANT:MHCQUANT:QUANT:PYOPENMS_IDFILTER (6) (41),/home/jfechner/test-nfcore-workflows/profile_test_full/mhcquant/work/25/316d8d078622c31048f95edafbbdad/.command.trace,2946708,41
+,,0,2024-01-25T10:56:54.169338142Z,2024-02-24T10:56:54.169338142Z,2024-02-24T05:48:42.112387355Z,CREATE,file_event,NFCORE_MHCQUANT:MHCQUANT:QUANT:PYOPENMS_IDFILTER (6) (41),NFCORE_MHCQUANT:MHCQUANT:QUANT:PYOPENMS_IDFILTER (6) (41),/home/jfechner/test-nfcore-workflows/profile_test_full/mhcquant/work/25/316d8d078622c31048f95edafbbdad/6_PBMC007_B_fdr_filtered.idXML,2946708,41
+,,0,2024-01-25T10:56:54.169338142Z,2024-02-24T10:56:54.169338142Z,2024-02-24T05:48:42.325202564Z,CREATE,file_event,NFCORE_MHCQUANT:MHCQUANT:QUANT:PYOPENMS_IDFILTER (6) (41),NFCORE_MHCQUANT:MHCQUANT:QUANT:PYOPENMS_IDFILTER (6) (41),/home/jfechner/test-nfcore-workflows/profile_test_full/mhcquant/work/25/316d8d078622c31048f95edafbbdad/versions.yml,2946708,41
+,,0,2024-01-25T10:56:54.169338142Z,2024-02-24T10:56:54.169338142Z,2024-02-24T05:48:42.651995374Z,CREATE,file_event,NFCORE_MHCQUANT:MHCQUANT:QUANT:PYOPENMS_IDFILTER (6) (41),NFCORE_MHCQUANT:MHCQUANT:QUANT:PYOPENMS_IDFILTER (6) (41),/home/jfechner/test-nfcore-workflows/profile_test_full/mhcquant/work/25/316d8d078622c31048f95edafbbdad/.exitcode,2946708,41

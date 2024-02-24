@@ -1,0 +1,6 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2024-01-25T10:56:55.816953387Z,2024-02-24T10:56:55.816953387Z,2024-02-24T05:47:04.348064319Z,16.32,docker_used_memory_mb,NFCORE_MHCQUANT:MHCQUANT:OPENMS_PEPTIDEINDEXER (4) (25),NFCORE_MHCQUANT:MHCQUANT:OPENMS_PEPTIDEINDEXER (4) (25),2935069,25
+,,0,2024-01-25T10:56:55.816953387Z,2024-02-24T10:56:55.816953387Z,2024-02-24T05:47:06.347974219Z,109.12,docker_used_memory_mb,NFCORE_MHCQUANT:MHCQUANT:OPENMS_PEPTIDEINDEXER (4) (25),NFCORE_MHCQUANT:MHCQUANT:OPENMS_PEPTIDEINDEXER (4) (25),2935069,25

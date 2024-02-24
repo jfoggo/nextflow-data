@@ -1,0 +1,5 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2024-01-25T10:56:54.969627421Z,2024-02-24T10:56:54.969627421Z,2024-02-24T05:48:51.611862134Z,25.95,docker_used_memory_mb,NFCORE_MHCQUANT:MHCQUANT:QUANT:MAP_ALIGNMENT:OPENMS_MAPRTTRANSFORMERIDXML (1) (57),NFCORE_MHCQUANT:MHCQUANT:QUANT:MAP_ALIGNMENT:OPENMS_MAPRTTRANSFORMERIDXML (1) (57),2956177,57

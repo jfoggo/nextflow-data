@@ -1,0 +1,5 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2024-01-25T10:56:52.918510374Z,2024-02-24T10:56:52.918510374Z,2024-02-24T05:47:59.228792345Z,76.4582,docker_cpu_usage_pct,NFCORE_MHCQUANT:MHCQUANT:QUANT:OPENMS_IDSCORESWITCHER (6) (36),NFCORE_MHCQUANT:MHCQUANT:QUANT:OPENMS_IDSCORESWITCHER (6) (36),2944112,36

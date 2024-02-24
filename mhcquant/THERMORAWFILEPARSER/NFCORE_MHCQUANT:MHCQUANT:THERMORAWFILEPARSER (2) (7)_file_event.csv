@@ -1,0 +1,8 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2024-01-25T10:56:54.328528081Z,2024-02-24T10:56:54.328528081Z,2024-02-24T05:38:55.781325151Z,CREATE,file_event,NFCORE_MHCQUANT:MHCQUANT:THERMORAWFILEPARSER (2) (7),NFCORE_MHCQUANT:MHCQUANT:THERMORAWFILEPARSER (2) (7),/home/jfechner/test-nfcore-workflows/profile_test_full/mhcquant/work/37/43e67a5174a27f99acc4486721e81e/.command.trace,2888487,7
+,,0,2024-01-25T10:56:54.328528081Z,2024-02-24T10:56:54.328528081Z,2024-02-24T05:38:56.135321054Z,CREATE,file_event,NFCORE_MHCQUANT:MHCQUANT:THERMORAWFILEPARSER (2) (7),NFCORE_MHCQUANT:MHCQUANT:THERMORAWFILEPARSER (2) (7),/home/jfechner/test-nfcore-workflows/profile_test_full/mhcquant/work/37/43e67a5174a27f99acc4486721e81e/PBMC009_msms36.mzML,2888487,7
+,,0,2024-01-25T10:56:54.328528081Z,2024-02-24T10:56:54.328528081Z,2024-02-24T05:40:22.473323334Z,CREATE,file_event,NFCORE_MHCQUANT:MHCQUANT:THERMORAWFILEPARSER (2) (7),NFCORE_MHCQUANT:MHCQUANT:THERMORAWFILEPARSER (2) (7),/home/jfechner/test-nfcore-workflows/profile_test_full/mhcquant/work/37/43e67a5174a27f99acc4486721e81e/versions.yml,2888487,7
+,,0,2024-01-25T10:56:54.328528081Z,2024-02-24T10:56:54.328528081Z,2024-02-24T05:40:22.863759395Z,CREATE,file_event,NFCORE_MHCQUANT:MHCQUANT:THERMORAWFILEPARSER (2) (7),NFCORE_MHCQUANT:MHCQUANT:THERMORAWFILEPARSER (2) (7),/home/jfechner/test-nfcore-workflows/profile_test_full/mhcquant/work/37/43e67a5174a27f99acc4486721e81e/.exitcode,2888487,7

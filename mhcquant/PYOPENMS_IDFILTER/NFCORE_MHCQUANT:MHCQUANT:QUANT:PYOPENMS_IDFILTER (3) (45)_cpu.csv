@@ -1,0 +1,6 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2024-01-25T10:56:53.992356762Z,2024-02-24T10:56:53.992356762Z,2024-02-24T05:48:40.723357867Z,106.2941,docker_cpu_usage_pct,NFCORE_MHCQUANT:MHCQUANT:QUANT:PYOPENMS_IDFILTER (3) (45),NFCORE_MHCQUANT:MHCQUANT:QUANT:PYOPENMS_IDFILTER (3) (45),2949821,45
+,,0,2024-01-25T10:56:53.992356762Z,2024-02-24T10:56:53.992356762Z,2024-02-24T05:48:42.721812781Z,105.7643,docker_cpu_usage_pct,NFCORE_MHCQUANT:MHCQUANT:QUANT:PYOPENMS_IDFILTER (3) (45),NFCORE_MHCQUANT:MHCQUANT:QUANT:PYOPENMS_IDFILTER (3) (45),2949821,45
