@@ -1,0 +1,6 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2024-01-25T10:55:53.695651231Z,2024-02-24T10:55:53.695651231Z,2024-02-23T23:29:47.790428857Z,CREATE,file_event,NFCORE_METHYLSEQ:METHYLSEQ:PRESEQ_LCEXTRAP (SRR7961104_GSM3415668_MShef11_low_oxygen) (42),NFCORE_METHYLSEQ:METHYLSEQ:PRESEQ_LCEXTRAP (SRR7961104_GSM3415668_MShef11_low_oxygen) (42),/home/jfechner/test-nfcore-workflows/profile_test_full/methylseq/work/5d/4b8f8b574de24157cf531739aeee1f/.command.trace,1222175,42
+,,0,2024-01-25T10:55:53.695651231Z,2024-02-24T10:55:53.695651231Z,2024-02-23T23:34:24.524824973Z,CREATE,file_event,NFCORE_METHYLSEQ:METHYLSEQ:PRESEQ_LCEXTRAP (SRR7961104_GSM3415668_MShef11_low_oxygen) (42),NFCORE_METHYLSEQ:METHYLSEQ:PRESEQ_LCEXTRAP (SRR7961104_GSM3415668_MShef11_low_oxygen) (42),/home/jfechner/test-nfcore-workflows/profile_test_full/methylseq/work/5d/4b8f8b574de24157cf531739aeee1f/.exitcode,1222175,42

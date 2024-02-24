@@ -1,0 +1,5 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2024-01-25T10:55:53.581912011Z,2024-02-24T10:55:53.581912011Z,2024-02-23T04:54:18.157996793Z,CREATE,file_event,NFCORE_METHYLSEQ:METHYLSEQ:PRESEQ_LCEXTRAP (SRR7961102_GSM3415666_MShef11_low_oxygen) (24),NFCORE_METHYLSEQ:METHYLSEQ:PRESEQ_LCEXTRAP (SRR7961102_GSM3415666_MShef11_low_oxygen) (24),/home/jfechner/test-nfcore-workflows/profile_test_full/methylseq/work/96/12b8192d5f7e5567a0790d5b1e2b68/.command.trace,2139405,24

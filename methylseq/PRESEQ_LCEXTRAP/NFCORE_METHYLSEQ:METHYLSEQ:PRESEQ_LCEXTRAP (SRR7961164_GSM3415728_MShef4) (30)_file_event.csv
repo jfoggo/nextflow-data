@@ -1,0 +1,6 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2024-01-25T10:55:53.960457104Z,2024-02-24T10:55:53.960457104Z,2024-02-23T06:48:24.356602035Z,CREATE,file_event,NFCORE_METHYLSEQ:METHYLSEQ:PRESEQ_LCEXTRAP (SRR7961164_GSM3415728_MShef4) (30),NFCORE_METHYLSEQ:METHYLSEQ:PRESEQ_LCEXTRAP (SRR7961164_GSM3415728_MShef4) (30),/home/jfechner/test-nfcore-workflows/profile_test_full/methylseq/work/bd/d9b65a7023801e07ad1a44df6131d0/.command.trace,2562422,30
+,,0,2024-01-25T10:55:53.960457104Z,2024-02-24T10:55:53.960457104Z,2024-02-23T06:51:41.979466737Z,CREATE,file_event,NFCORE_METHYLSEQ:METHYLSEQ:PRESEQ_LCEXTRAP (SRR7961164_GSM3415728_MShef4) (30),NFCORE_METHYLSEQ:METHYLSEQ:PRESEQ_LCEXTRAP (SRR7961164_GSM3415728_MShef4) (30),/home/jfechner/test-nfcore-workflows/profile_test_full/methylseq/work/bd/d9b65a7023801e07ad1a44df6131d0/.exitcode,2562422,30
