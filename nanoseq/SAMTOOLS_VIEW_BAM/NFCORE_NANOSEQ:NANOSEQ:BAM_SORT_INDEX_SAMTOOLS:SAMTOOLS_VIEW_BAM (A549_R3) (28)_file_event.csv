@@ -1,0 +1,7 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2024-01-26T11:22:42.139871391Z,2024-02-25T11:22:42.139871391Z,2024-02-25T03:46:10.974423322Z,CREATE,file_event,NFCORE_NANOSEQ:NANOSEQ:BAM_SORT_INDEX_SAMTOOLS:SAMTOOLS_VIEW_BAM (A549_R3) (28),NFCORE_NANOSEQ:NANOSEQ:BAM_SORT_INDEX_SAMTOOLS:SAMTOOLS_VIEW_BAM (A549_R3) (28),/home/jfechner/test-nfcore-workflows/profile_test_full/nanoseq/work/0a/e6fdc070adfd74eb524cbf3a7f5105/A549_R3.bam,1961163,28
+,,0,2024-01-26T11:22:42.139871391Z,2024-02-25T11:22:42.139871391Z,2024-02-25T03:46:21.305241252Z,CREATE,file_event,NFCORE_NANOSEQ:NANOSEQ:BAM_SORT_INDEX_SAMTOOLS:SAMTOOLS_VIEW_BAM (A549_R3) (28),NFCORE_NANOSEQ:NANOSEQ:BAM_SORT_INDEX_SAMTOOLS:SAMTOOLS_VIEW_BAM (A549_R3) (28),/home/jfechner/test-nfcore-workflows/profile_test_full/nanoseq/work/0a/e6fdc070adfd74eb524cbf3a7f5105/versions.yml,1961163,28
+,,0,2024-01-26T11:22:42.139871391Z,2024-02-25T11:22:42.139871391Z,2024-02-25T03:46:21.616407778Z,CREATE,file_event,NFCORE_NANOSEQ:NANOSEQ:BAM_SORT_INDEX_SAMTOOLS:SAMTOOLS_VIEW_BAM (A549_R3) (28),NFCORE_NANOSEQ:NANOSEQ:BAM_SORT_INDEX_SAMTOOLS:SAMTOOLS_VIEW_BAM (A549_R3) (28),/home/jfechner/test-nfcore-workflows/profile_test_full/nanoseq/work/0a/e6fdc070adfd74eb524cbf3a7f5105/.exitcode,1961163,28

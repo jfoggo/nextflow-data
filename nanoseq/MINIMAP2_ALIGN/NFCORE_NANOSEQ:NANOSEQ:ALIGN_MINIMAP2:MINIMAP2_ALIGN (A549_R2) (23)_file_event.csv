@@ -1,0 +1,6 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2024-01-26T11:22:44.391009445Z,2024-02-25T11:22:44.391009445Z,2024-02-25T03:32:54.595295372Z,CREATE,file_event,NFCORE_NANOSEQ:NANOSEQ:ALIGN_MINIMAP2:MINIMAP2_ALIGN (A549_R2) (23),NFCORE_NANOSEQ:NANOSEQ:ALIGN_MINIMAP2:MINIMAP2_ALIGN (A549_R2) (23),/home/jfechner/test-nfcore-workflows/profile_test_full/nanoseq/work/6a/0ae3fb82e9afd5ecf75f14c555971a/versions.yml,1780026,23
+,,0,2024-01-26T11:22:44.391009445Z,2024-02-25T11:22:44.391009445Z,2024-02-25T03:32:57.982434721Z,CREATE,file_event,NFCORE_NANOSEQ:NANOSEQ:ALIGN_MINIMAP2:MINIMAP2_ALIGN (A549_R2) (23),NFCORE_NANOSEQ:NANOSEQ:ALIGN_MINIMAP2:MINIMAP2_ALIGN (A549_R2) (23),/home/jfechner/test-nfcore-workflows/profile_test_full/nanoseq/work/6a/0ae3fb82e9afd5ecf75f14c555971a/.exitcode,1780026,23

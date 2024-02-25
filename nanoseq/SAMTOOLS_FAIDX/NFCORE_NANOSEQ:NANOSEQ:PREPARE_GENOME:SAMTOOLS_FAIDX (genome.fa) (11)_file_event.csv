@@ -1,0 +1,7 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2024-01-26T11:22:48.797693986Z,2024-02-25T11:22:48.797693986Z,2024-02-25T02:21:08.271550301Z,CREATE,file_event,NFCORE_NANOSEQ:NANOSEQ:PREPARE_GENOME:SAMTOOLS_FAIDX (genome.fa) (11),NFCORE_NANOSEQ:NANOSEQ:PREPARE_GENOME:SAMTOOLS_FAIDX (genome.fa) (11),/home/jfechner/test-nfcore-workflows/profile_test_full/nanoseq/work/4b/0cf187b60edc546e2948b4c5fc1a96/genome.fa.fai,1645385,11
+,,0,2024-01-26T11:22:48.797693986Z,2024-02-25T11:22:48.797693986Z,2024-02-25T02:21:08.293789456Z,CREATE,file_event,NFCORE_NANOSEQ:NANOSEQ:PREPARE_GENOME:SAMTOOLS_FAIDX (genome.fa) (11),NFCORE_NANOSEQ:NANOSEQ:PREPARE_GENOME:SAMTOOLS_FAIDX (genome.fa) (11),/home/jfechner/test-nfcore-workflows/profile_test_full/nanoseq/work/4b/0cf187b60edc546e2948b4c5fc1a96/versions.yml,1645385,11
+,,0,2024-01-26T11:22:48.797693986Z,2024-02-25T11:22:48.797693986Z,2024-02-25T02:21:08.970189874Z,CREATE,file_event,NFCORE_NANOSEQ:NANOSEQ:PREPARE_GENOME:SAMTOOLS_FAIDX (genome.fa) (11),NFCORE_NANOSEQ:NANOSEQ:PREPARE_GENOME:SAMTOOLS_FAIDX (genome.fa) (11),/home/jfechner/test-nfcore-workflows/profile_test_full/nanoseq/work/4b/0cf187b60edc546e2948b4c5fc1a96/.exitcode,1645385,11
