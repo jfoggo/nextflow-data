@@ -7,6 +7,9 @@ Done:
 - chipseq
 - methylseq  
 - mhcquant  
+- mag
+- atacseq
+- nanoseq
 
 Not Executable: (mismatch Nextflow DSL1 VS DSL2)  
 - dualrnaseq  
@@ -15,7 +18,4 @@ Not Executable: (mismatch Nextflow DSL1 VS DSL2)
 - rnafusion  
  
 In Progress (WFs from nf-core):
-- mag
-- atacseq
-- nanoseq
 - scrnaseq
