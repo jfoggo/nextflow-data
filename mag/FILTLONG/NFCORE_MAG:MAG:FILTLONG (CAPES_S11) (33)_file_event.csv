@@ -1,0 +1,8 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2024-01-26T11:16:58.763958358Z,2024-02-25T11:16:58.763958358Z,2024-02-24T17:01:50.222870029Z,CREATE,file_event,NFCORE_MAG:MAG:FILTLONG (CAPES_S11) (33),NFCORE_MAG:MAG:FILTLONG (CAPES_S11) (33),/home/jfechner/test-nfcore-workflows/profile_test_full/mag/work/a6/a0c36c759035a4e9e8d917b37336c0/.command.trace,1205296,33
+,,0,2024-01-26T11:16:58.763958358Z,2024-02-25T11:16:58.763958358Z,2024-02-24T17:01:50.238284713Z,CREATE,file_event,NFCORE_MAG:MAG:FILTLONG (CAPES_S11) (33),NFCORE_MAG:MAG:FILTLONG (CAPES_S11) (33),/home/jfechner/test-nfcore-workflows/profile_test_full/mag/work/a6/a0c36c759035a4e9e8d917b37336c0/CAPES_S11_lr_filtlong.fastq.gz,1205296,33
+,,0,2024-01-26T11:16:58.763958358Z,2024-02-25T11:16:58.763958358Z,2024-02-24T18:35:09.404937817Z,CREATE,file_event,NFCORE_MAG:MAG:FILTLONG (CAPES_S11) (33),NFCORE_MAG:MAG:FILTLONG (CAPES_S11) (33),/home/jfechner/test-nfcore-workflows/profile_test_full/mag/work/a6/a0c36c759035a4e9e8d917b37336c0/versions.yml,1205296,33
+,,0,2024-01-26T11:16:58.763958358Z,2024-02-25T11:16:58.763958358Z,2024-02-24T18:35:10.629589767Z,CREATE,file_event,NFCORE_MAG:MAG:FILTLONG (CAPES_S11) (33),NFCORE_MAG:MAG:FILTLONG (CAPES_S11) (33),/home/jfechner/test-nfcore-workflows/profile_test_full/mag/work/a6/a0c36c759035a4e9e8d917b37336c0/.exitcode,1205296,33

@@ -1,0 +1,5 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2024-01-26T11:15:43.519987503Z,2024-02-25T11:15:43.519987503Z,2024-02-24T18:36:55.082923081Z,13.71,docker_used_memory_mb,NFCORE_MAG:MAG:BINNING:SPLIT_FASTA (MEGAHIT-MaxBin2-CAPES_S11) (205),NFCORE_MAG:MAG:BINNING:SPLIT_FASTA (MEGAHIT-MaxBin2-CAPES_S11) (205),1931888,205

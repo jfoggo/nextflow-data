@@ -1,0 +1,8 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2024-01-26T11:16:23.59478365Z,2024-02-25T11:16:23.59478365Z,2024-02-24T14:04:22.203537914Z,CREATE,file_event,NFCORE_MAG:MAG:KRAKEN2 (CAPES_S11-minikraken_8GB_202003) (30),NFCORE_MAG:MAG:KRAKEN2 (CAPES_S11-minikraken_8GB_202003) (30),/home/jfechner/test-nfcore-workflows/profile_test_full/mag/work/ff/eb373329c7d5beeef74b95b8745bd9/CAPES_S11.kraken2_report.txt,228974,30
+,,0,2024-01-26T11:16:23.59478365Z,2024-02-25T11:16:23.59478365Z,2024-02-24T14:04:22.28347483Z,CREATE,file_event,NFCORE_MAG:MAG:KRAKEN2 (CAPES_S11-minikraken_8GB_202003) (30),NFCORE_MAG:MAG:KRAKEN2 (CAPES_S11-minikraken_8GB_202003) (30),/home/jfechner/test-nfcore-workflows/profile_test_full/mag/work/ff/eb373329c7d5beeef74b95b8745bd9/results.krona,228974,30
+,,0,2024-01-26T11:16:23.59478365Z,2024-02-25T11:16:23.59478365Z,2024-02-24T14:04:31.204868089Z,CREATE,file_event,NFCORE_MAG:MAG:KRAKEN2 (CAPES_S11-minikraken_8GB_202003) (30),NFCORE_MAG:MAG:KRAKEN2 (CAPES_S11-minikraken_8GB_202003) (30),/home/jfechner/test-nfcore-workflows/profile_test_full/mag/work/ff/eb373329c7d5beeef74b95b8745bd9/versions.yml,228974,30
+,,0,2024-01-26T11:16:23.59478365Z,2024-02-25T11:16:23.59478365Z,2024-02-24T14:04:32.81558301Z,CREATE,file_event,NFCORE_MAG:MAG:KRAKEN2 (CAPES_S11-minikraken_8GB_202003) (30),NFCORE_MAG:MAG:KRAKEN2 (CAPES_S11-minikraken_8GB_202003) (30),/home/jfechner/test-nfcore-workflows/profile_test_full/mag/work/ff/eb373329c7d5beeef74b95b8745bd9/.exitcode,228974,30

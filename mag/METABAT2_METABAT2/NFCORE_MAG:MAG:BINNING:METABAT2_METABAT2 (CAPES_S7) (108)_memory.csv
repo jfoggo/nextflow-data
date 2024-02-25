@@ -1,0 +1,6 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2024-01-26T11:17:06.917100533Z,2024-02-25T11:17:06.917100533Z,2024-02-24T18:26:46.504459346Z,70.34,docker_used_memory_mb,NFCORE_MAG:MAG:BINNING:METABAT2_METABAT2 (CAPES_S7) (108),NFCORE_MAG:MAG:BINNING:METABAT2_METABAT2 (CAPES_S7) (108),1850720,108
+,,0,2024-01-26T11:17:06.917100533Z,2024-02-25T11:17:06.917100533Z,2024-02-24T18:26:48.505228712Z,15.45,docker_used_memory_mb,NFCORE_MAG:MAG:BINNING:METABAT2_METABAT2 (CAPES_S7) (108),NFCORE_MAG:MAG:BINNING:METABAT2_METABAT2 (CAPES_S7) (108),1850720,108

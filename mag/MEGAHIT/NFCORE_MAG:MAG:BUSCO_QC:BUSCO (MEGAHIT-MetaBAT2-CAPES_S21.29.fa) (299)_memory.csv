@@ -1,0 +1,6 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2024-01-26T11:17:38.186192114Z,2024-02-25T11:17:38.186192114Z,2024-02-24T23:50:04.448027526Z,59.64,docker_used_memory_mb,NFCORE_MAG:MAG:BUSCO_QC:BUSCO (MEGAHIT-MetaBAT2-CAPES_S21.29.fa) (299),NFCORE_MAG:MAG:BUSCO_QC:BUSCO (MEGAHIT-MetaBAT2-CAPES_S21.29.fa) (299),860474,299
+,,0,2024-01-26T11:17:38.186192114Z,2024-02-25T11:17:38.186192114Z,2024-02-24T23:50:06.446958902Z,72.52,docker_used_memory_mb,NFCORE_MAG:MAG:BUSCO_QC:BUSCO (MEGAHIT-MetaBAT2-CAPES_S21.29.fa) (299),NFCORE_MAG:MAG:BUSCO_QC:BUSCO (MEGAHIT-MetaBAT2-CAPES_S21.29.fa) (299),860474,299

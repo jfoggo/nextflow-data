@@ -1,0 +1,8 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2024-01-26T11:17:12.449533535Z,2024-02-25T11:17:12.449533535Z,2024-02-24T13:38:40.352856948Z,CREATE,file_event,NFCORE_MAG:MAG:NANOLYSE (CAPES_S21) (27),NFCORE_MAG:MAG:NANOLYSE (CAPES_S21) (27),/home/jfechner/test-nfcore-workflows/profile_test_full/mag/work/3b/f04aa722f8d13db92bad171384672b/NanoLyse.log,91470,27
+,,0,2024-01-26T11:17:12.449533535Z,2024-02-25T11:17:12.449533535Z,2024-02-24T14:50:30.463027003Z,CREATE,file_event,NFCORE_MAG:MAG:NANOLYSE (CAPES_S21) (27),NFCORE_MAG:MAG:NANOLYSE (CAPES_S21) (27),/home/jfechner/test-nfcore-workflows/profile_test_full/mag/work/3b/f04aa722f8d13db92bad171384672b/CAPES_S21_nanolyse.log,91470,27
+,,0,2024-01-26T11:17:12.449533535Z,2024-02-25T11:17:12.449533535Z,2024-02-24T14:54:20.288743419Z,CREATE,file_event,NFCORE_MAG:MAG:NANOLYSE (CAPES_S21) (27),NFCORE_MAG:MAG:NANOLYSE (CAPES_S21) (27),/home/jfechner/test-nfcore-workflows/profile_test_full/mag/work/3b/f04aa722f8d13db92bad171384672b/versions.yml,91470,27
+,,0,2024-01-26T11:17:12.449533535Z,2024-02-25T11:17:12.449533535Z,2024-02-24T14:54:21.582677097Z,CREATE,file_event,NFCORE_MAG:MAG:NANOLYSE (CAPES_S21) (27),NFCORE_MAG:MAG:NANOLYSE (CAPES_S21) (27),/home/jfechner/test-nfcore-workflows/profile_test_full/mag/work/3b/f04aa722f8d13db92bad171384672b/.exitcode,91470,27

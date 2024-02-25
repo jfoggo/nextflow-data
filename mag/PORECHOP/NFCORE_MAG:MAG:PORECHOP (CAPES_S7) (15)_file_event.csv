@@ -1,0 +1,7 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2024-01-26T11:16:47.86043323Z,2024-02-25T11:16:47.86043323Z,2024-02-24T13:57:18.984369898Z,CREATE,file_event,NFCORE_MAG:MAG:PORECHOP (CAPES_S7) (15),NFCORE_MAG:MAG:PORECHOP (CAPES_S7) (15),/home/jfechner/test-nfcore-workflows/profile_test_full/mag/work/a6/d702df622af139fbfa6835517470ce/CAPES_S7_porechop.fastq,3446541,15
+,,0,2024-01-26T11:16:47.86043323Z,2024-02-25T11:16:47.86043323Z,2024-02-24T13:58:02.237098073Z,CREATE,file_event,NFCORE_MAG:MAG:PORECHOP (CAPES_S7) (15),NFCORE_MAG:MAG:PORECHOP (CAPES_S7) (15),/home/jfechner/test-nfcore-workflows/profile_test_full/mag/work/a6/d702df622af139fbfa6835517470ce/versions.yml,3446541,15
+,,0,2024-01-26T11:16:47.86043323Z,2024-02-25T11:16:47.86043323Z,2024-02-24T13:58:03.574996795Z,CREATE,file_event,NFCORE_MAG:MAG:PORECHOP (CAPES_S7) (15),NFCORE_MAG:MAG:PORECHOP (CAPES_S7) (15),/home/jfechner/test-nfcore-workflows/profile_test_full/mag/work/a6/d702df622af139fbfa6835517470ce/.exitcode,3446541,15

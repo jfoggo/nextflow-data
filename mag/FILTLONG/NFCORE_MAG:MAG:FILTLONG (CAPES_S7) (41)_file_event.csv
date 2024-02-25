@@ -1,0 +1,6 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2024-01-26T11:16:58.980191894Z,2024-02-25T11:16:58.980191894Z,2024-02-24T22:54:17.073384499Z,CREATE,file_event,NFCORE_MAG:MAG:FILTLONG (CAPES_S7) (41),NFCORE_MAG:MAG:FILTLONG (CAPES_S7) (41),/home/jfechner/test-nfcore-workflows/profile_test_full/mag/work/6a/60c47586846a617aae4f702f5d83a3/versions.yml,2155443,41
+,,0,2024-01-26T11:16:58.980191894Z,2024-02-25T11:16:58.980191894Z,2024-02-24T22:54:18.327238443Z,CREATE,file_event,NFCORE_MAG:MAG:FILTLONG (CAPES_S7) (41),NFCORE_MAG:MAG:FILTLONG (CAPES_S7) (41),/home/jfechner/test-nfcore-workflows/profile_test_full/mag/work/6a/60c47586846a617aae4f702f5d83a3/.exitcode,2155443,41

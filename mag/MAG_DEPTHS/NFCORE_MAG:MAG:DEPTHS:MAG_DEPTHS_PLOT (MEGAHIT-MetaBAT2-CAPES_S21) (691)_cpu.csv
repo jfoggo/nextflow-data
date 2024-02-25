@@ -1,0 +1,5 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2024-01-26T11:17:18.35575412Z,2024-02-25T11:17:18.35575412Z,2024-02-24T23:07:28.501145562Z,155.2003,docker_cpu_usage_pct,NFCORE_MAG:MAG:DEPTHS:MAG_DEPTHS_PLOT (MEGAHIT-MetaBAT2-CAPES_S21) (691),NFCORE_MAG:MAG:DEPTHS:MAG_DEPTHS_PLOT (MEGAHIT-MetaBAT2-CAPES_S21) (691),2866493,691

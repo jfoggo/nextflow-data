@@ -1,0 +1,7 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2024-01-26T11:17:18.028205479Z,2024-02-25T11:17:18.028205479Z,2024-02-24T23:07:09.370276812Z,CREATE,file_event,NFCORE_MAG:MAG:DEPTHS:MAG_DEPTHS (MEGAHIT-MaxBin2-CAPES_S7) (334),NFCORE_MAG:MAG:DEPTHS:MAG_DEPTHS (MEGAHIT-MaxBin2-CAPES_S7) (334),/home/jfechner/test-nfcore-workflows/profile_test_full/mag/work/6d/6d66cdc387b7f11f609d5d3bda29c5/MEGAHIT-MaxBin2-CAPES_S7-binDepths.tsv,2851208,334
+,,0,2024-01-26T11:17:18.028205479Z,2024-02-25T11:17:18.028205479Z,2024-02-24T23:07:09.962866836Z,CREATE,file_event,NFCORE_MAG:MAG:DEPTHS:MAG_DEPTHS (MEGAHIT-MaxBin2-CAPES_S7) (334),NFCORE_MAG:MAG:DEPTHS:MAG_DEPTHS (MEGAHIT-MaxBin2-CAPES_S7) (334),/home/jfechner/test-nfcore-workflows/profile_test_full/mag/work/6d/6d66cdc387b7f11f609d5d3bda29c5/versions.yml,2851208,334
+,,0,2024-01-26T11:17:18.028205479Z,2024-02-25T11:17:18.028205479Z,2024-02-24T23:07:11.300154226Z,CREATE,file_event,NFCORE_MAG:MAG:DEPTHS:MAG_DEPTHS (MEGAHIT-MaxBin2-CAPES_S7) (334),NFCORE_MAG:MAG:DEPTHS:MAG_DEPTHS (MEGAHIT-MaxBin2-CAPES_S7) (334),/home/jfechner/test-nfcore-workflows/profile_test_full/mag/work/6d/6d66cdc387b7f11f609d5d3bda29c5/.exitcode,2851208,334
