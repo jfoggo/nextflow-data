@@ -1,0 +1,5 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2024-01-26T11:20:22.823959722Z,2024-02-25T11:20:22.823959722Z,2024-02-25T02:02:09.236328738Z,163.2278,docker_cpu_usage_pct,NFCORE_ATACSEQ:ATACSEQ:MERGED_LIBRARY_FILTER_BAM:BAM_SORT_STATS_SAMTOOLS:SAMTOOLS_INDEX (GM12878_STD_REP2) (88),NFCORE_ATACSEQ:ATACSEQ:MERGED_LIBRARY_FILTER_BAM:BAM_SORT_STATS_SAMTOOLS:SAMTOOLS_INDEX (GM12878_STD_REP2) (88),1526472,88

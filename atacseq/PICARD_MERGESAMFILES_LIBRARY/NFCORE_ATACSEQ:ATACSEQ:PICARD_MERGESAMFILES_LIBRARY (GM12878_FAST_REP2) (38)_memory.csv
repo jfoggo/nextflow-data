@@ -1,0 +1,5 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2024-01-26T11:20:26.035473004Z,2024-02-25T11:20:26.035473004Z,2024-02-25T01:36:26.976408219Z,50.1,docker_used_memory_mb,NFCORE_ATACSEQ:ATACSEQ:PICARD_MERGESAMFILES_LIBRARY (GM12878_FAST_REP2) (38),NFCORE_ATACSEQ:ATACSEQ:PICARD_MERGESAMFILES_LIBRARY (GM12878_FAST_REP2) (38),1322129,38

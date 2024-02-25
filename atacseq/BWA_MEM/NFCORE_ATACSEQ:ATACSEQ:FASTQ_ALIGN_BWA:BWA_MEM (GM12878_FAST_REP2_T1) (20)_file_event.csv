@@ -1,0 +1,7 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2024-01-26T11:20:31.068049899Z,2024-02-25T11:20:31.068049899Z,2024-02-25T00:40:51.232152Z,CREATE,file_event,NFCORE_ATACSEQ:ATACSEQ:FASTQ_ALIGN_BWA:BWA_MEM (GM12878_FAST_REP2_T1) (20),NFCORE_ATACSEQ:ATACSEQ:FASTQ_ALIGN_BWA:BWA_MEM (GM12878_FAST_REP2_T1) (20),/home/jfechner/test-nfcore-workflows/profile_test_full/atacseq/work/b7/04c6be647dba6c290335f2fedc6758/GM12878_FAST_REP2_T1.Lb.bam,1180714,20
+,,0,2024-01-26T11:20:31.068049899Z,2024-02-25T11:20:31.068049899Z,2024-02-25T00:46:00.096600284Z,CREATE,file_event,NFCORE_ATACSEQ:ATACSEQ:FASTQ_ALIGN_BWA:BWA_MEM (GM12878_FAST_REP2_T1) (20),NFCORE_ATACSEQ:ATACSEQ:FASTQ_ALIGN_BWA:BWA_MEM (GM12878_FAST_REP2_T1) (20),/home/jfechner/test-nfcore-workflows/profile_test_full/atacseq/work/b7/04c6be647dba6c290335f2fedc6758/versions.yml,1180714,20
+,,0,2024-01-26T11:20:31.068049899Z,2024-02-25T11:20:31.068049899Z,2024-02-25T00:46:01.330923031Z,CREATE,file_event,NFCORE_ATACSEQ:ATACSEQ:FASTQ_ALIGN_BWA:BWA_MEM (GM12878_FAST_REP2_T1) (20),NFCORE_ATACSEQ:ATACSEQ:FASTQ_ALIGN_BWA:BWA_MEM (GM12878_FAST_REP2_T1) (20),/home/jfechner/test-nfcore-workflows/profile_test_full/atacseq/work/b7/04c6be647dba6c290335f2fedc6758/.exitcode,1180714,20

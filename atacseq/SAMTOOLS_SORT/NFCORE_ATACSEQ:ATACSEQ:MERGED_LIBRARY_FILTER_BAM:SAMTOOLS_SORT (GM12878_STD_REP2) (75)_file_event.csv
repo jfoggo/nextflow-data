@@ -1,0 +1,7 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2024-01-26T11:20:28.454283745Z,2024-02-25T11:20:28.454283745Z,2024-02-25T01:56:50.637452365Z,CREATE,file_event,NFCORE_ATACSEQ:ATACSEQ:MERGED_LIBRARY_FILTER_BAM:SAMTOOLS_SORT (GM12878_STD_REP2) (75),NFCORE_ATACSEQ:ATACSEQ:MERGED_LIBRARY_FILTER_BAM:SAMTOOLS_SORT (GM12878_STD_REP2) (75),/home/jfechner/test-nfcore-workflows/profile_test_full/atacseq/work/9d/a13acb9c985e37e9653ad5994dd77f/GM12878_STD_REP2.mLb.flT.name_sorted.bam,1487876,75
+,,0,2024-01-26T11:20:28.454283745Z,2024-02-25T11:20:28.454283745Z,2024-02-25T01:56:56.044579383Z,CREATE,file_event,NFCORE_ATACSEQ:ATACSEQ:MERGED_LIBRARY_FILTER_BAM:SAMTOOLS_SORT (GM12878_STD_REP2) (75),NFCORE_ATACSEQ:ATACSEQ:MERGED_LIBRARY_FILTER_BAM:SAMTOOLS_SORT (GM12878_STD_REP2) (75),/home/jfechner/test-nfcore-workflows/profile_test_full/atacseq/work/9d/a13acb9c985e37e9653ad5994dd77f/versions.yml,1487876,75
+,,0,2024-01-26T11:20:28.454283745Z,2024-02-25T11:20:28.454283745Z,2024-02-25T01:56:56.418586041Z,CREATE,file_event,NFCORE_ATACSEQ:ATACSEQ:MERGED_LIBRARY_FILTER_BAM:SAMTOOLS_SORT (GM12878_STD_REP2) (75),NFCORE_ATACSEQ:ATACSEQ:MERGED_LIBRARY_FILTER_BAM:SAMTOOLS_SORT (GM12878_STD_REP2) (75),/home/jfechner/test-nfcore-workflows/profile_test_full/atacseq/work/9d/a13acb9c985e37e9653ad5994dd77f/.exitcode,1487876,75
