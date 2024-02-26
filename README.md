@@ -10,6 +10,7 @@ Done:
 - mag
 - atacseq
 - nanoseq
+- scrnaseq (only 1 instance per task, maybee not usefull)
 
 Not Executable: (mismatch Nextflow DSL1 VS DSL2)  
 - dualrnaseq  
@@ -17,5 +18,5 @@ Not Executable: (mismatch Nextflow DSL1 VS DSL2)
 - ampliseq  
 - rnafusion  
  
-In Progress (WFs from nf-core):
-- scrnaseq
+In Progress (WFs from nf-core):  
+none
