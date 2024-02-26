@@ -1,0 +1,5 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2024-01-27T15:03:40.228592994Z,2024-02-26T15:03:40.228592994Z,2024-02-25T11:30:11.635864254Z,10.89,docker_used_memory_mb,NFCORE_SCRNASEQ:SCRNASEQ:INPUT_CHECK:SAMPLESHEET_CHECK (samplesheet_2.0_full.csv) (2),NFCORE_SCRNASEQ:SCRNASEQ:INPUT_CHECK:SAMPLESHEET_CHECK (samplesheet_2.0_full.csv) (2),2465449,2

@@ -1,0 +1,8 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2024-01-27T15:03:40.126527452Z,2024-02-26T15:03:40.126527452Z,2024-02-25T11:32:32.916791183Z,CREATE,file_event,NFCORE_SCRNASEQ:SCRNASEQ:GTF_GENE_FILTER (genome.fa) (1),NFCORE_SCRNASEQ:SCRNASEQ:GTF_GENE_FILTER (genome.fa) (1),/home/jfechner/test-nfcore-workflows/profile_test_full/scrnaseq/work/a0/7b2de2f36481f2f3154acf70e3eae5/.command.trace,2465881,1
+,,0,2024-01-27T15:03:40.126527452Z,2024-02-26T15:03:40.126527452Z,2024-02-25T11:32:39.323764253Z,CREATE,file_event,NFCORE_SCRNASEQ:SCRNASEQ:GTF_GENE_FILTER (genome.fa) (1),NFCORE_SCRNASEQ:SCRNASEQ:GTF_GENE_FILTER (genome.fa) (1),/home/jfechner/test-nfcore-workflows/profile_test_full/scrnaseq/work/a0/7b2de2f36481f2f3154acf70e3eae5/genome_genes.gtf,2465881,1
+,,0,2024-01-27T15:03:40.126527452Z,2024-02-26T15:03:40.126527452Z,2024-02-25T11:32:41.019088354Z,CREATE,file_event,NFCORE_SCRNASEQ:SCRNASEQ:GTF_GENE_FILTER (genome.fa) (1),NFCORE_SCRNASEQ:SCRNASEQ:GTF_GENE_FILTER (genome.fa) (1),/home/jfechner/test-nfcore-workflows/profile_test_full/scrnaseq/work/a0/7b2de2f36481f2f3154acf70e3eae5/versions.yml,2465881,1
+,,0,2024-01-27T15:03:40.126527452Z,2024-02-26T15:03:40.126527452Z,2024-02-25T11:32:41.757502493Z,CREATE,file_event,NFCORE_SCRNASEQ:SCRNASEQ:GTF_GENE_FILTER (genome.fa) (1),NFCORE_SCRNASEQ:SCRNASEQ:GTF_GENE_FILTER (genome.fa) (1),/home/jfechner/test-nfcore-workflows/profile_test_full/scrnaseq/work/a0/7b2de2f36481f2f3154acf70e3eae5/.exitcode,2465881,1
