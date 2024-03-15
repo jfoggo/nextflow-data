@@ -11,6 +11,7 @@ Done:
 - atacseq
 - nanoseq
 - scrnaseq (only 1 instance per task, maybee not usefull)
+- rangeland (failed, because of missing input-file)
 
 Not Executable: (mismatch Nextflow DSL1 VS DSL2)  
 - dualrnaseq  
@@ -19,4 +20,4 @@ Not Executable: (mismatch Nextflow DSL1 VS DSL2)
 - rnafusion  
  
 In Progress (WFs from nf-core):  
-none
+- none
