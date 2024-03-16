@@ -1,6 +1,0 @@
-#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
-#group,false,false,true,true,false,false,false,false,false,false,false,false
-#default,_result,,,,,,,,,,,
-,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
-,,0,2024-02-14T11:34:08.403782366Z,2024-03-15T11:34:08.403782366Z,2024-03-14T20:41:16.073872434Z,CREATE,file_event,NFCORE_RANGELAND:RANGELAND:PREPROCESSING:FORCE_PREPROCESS (LT05_L1TP_182036_19930416_20200914_02_T1) (3064),NFCORE_RANGELAND:RANGELAND:PREPROCESSING:FORCE_PREPROCESS (LT05_L1TP_182036_19930416_20200914_02_T1) (3064),/home/jfechner/workflows/rangeland/nextflow-run/work/a9/74695d1ecdb982aa6e9e70fafadd2a/versions.yml,2301019,3064
-,,0,2024-02-14T11:34:08.403782366Z,2024-03-15T11:34:08.403782366Z,2024-03-14T20:41:16.385865317Z,CREATE,file_event,NFCORE_RANGELAND:RANGELAND:PREPROCESSING:FORCE_PREPROCESS (LT05_L1TP_182036_19930416_20200914_02_T1) (3064),NFCORE_RANGELAND:RANGELAND:PREPROCESSING:FORCE_PREPROCESS (LT05_L1TP_182036_19930416_20200914_02_T1) (3064),/home/jfechner/workflows/rangeland/nextflow-run/work/a9/74695d1ecdb982aa6e9e70fafadd2a/.exitcode,2301019,3064

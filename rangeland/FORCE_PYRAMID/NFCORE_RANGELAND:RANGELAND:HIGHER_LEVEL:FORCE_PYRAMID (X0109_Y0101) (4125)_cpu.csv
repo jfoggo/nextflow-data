@@ -1,0 +1,5 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2024-02-15T15:37:59.677719471Z,2024-03-16T15:37:59.677719471Z,2024-03-16T05:03:50.183171361Z,110.3394,docker_cpu_usage_pct,NFCORE_RANGELAND:RANGELAND:HIGHER_LEVEL:FORCE_PYRAMID (X0109_Y0101) (4125),NFCORE_RANGELAND:RANGELAND:HIGHER_LEVEL:FORCE_PYRAMID (X0109_Y0101) (4125),1551605,4125
